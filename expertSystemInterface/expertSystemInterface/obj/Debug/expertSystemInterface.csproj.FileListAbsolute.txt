@@ -1,0 +1,12 @@
+c:\users\mohamed\documents\visual studio 2013\Projects\expertSystemInterface\expertSystemInterface\bin\Debug\expertSystemInterface.exe.config
+c:\users\mohamed\documents\visual studio 2013\Projects\expertSystemInterface\expertSystemInterface\obj\Debug\expertSystemInterface.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2013\Projects\expertSystemInterface\expertSystemInterface\obj\Debug\expertSystemInterface.Form1.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\expertSystemInterface\expertSystemInterface\obj\Debug\expertSystemInterface.Properties.Resources.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\expertSystemInterface\expertSystemInterface\obj\Debug\expertSystemInterface.csproj.GenerateResource.Cache
+c:\users\mohamed\documents\visual studio 2013\Projects\expertSystemInterface\expertSystemInterface\bin\Debug\expertSystemInterface.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\expertSystemInterface\expertSystemInterface\bin\Debug\expertSystemInterface.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\expertSystemInterface\expertSystemInterface\obj\Debug\expertSystemInterface.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\expertSystemInterface\expertSystemInterface\obj\Debug\expertSystemInterface.pdb
+C:\Users\Mohamed\Desktop\expertSystemInterface\expertSystemInterface\bin\Debug\expertSystemInterface.exe.config
+C:\Users\Mohamed\Desktop\expertSystemInterface\expertSystemInterface\obj\Debug\expertSystemInterface.exe
+C:\Users\Mohamed\Desktop\expertSystemInterface\expertSystemInterface\obj\Debug\expertSystemInterface.pdb
